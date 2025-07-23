@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Harshit-Mourya
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Full Stack Web Development
-<!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me ... https://www.linkedin.com/in/mourya-harshit
+# 👋 Hey, I'm Harshit Mourya
 
-<!---
-Harshit-Mourya/Harshit-Mourya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring Full-Stack Developer  
+📍 Passionate about building real-world web applications using the MERN stack and Next.js.
+
+### 💻 Tech Stack
+- Frontend: **React.js**, **Next.js**, **JavaScript**, **Tailwind CSS**, **Bootstrap**
+- Backend: **Node.js**, **Express.js**
+- Database: **MongoDB**, MySQL (Basics)
+- Others: **Git**, **GitHub**, **Redux Toolkit**, **Material UI**
+
+### 🌱 Currently
+- Learning advanced full-stack concepts
+- Exploring open source contributions
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mourya-harshit)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/Harshit-Mourya)
