@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Harshit Mourya
 
 🚀 Aspiring Full-Stack Developer  
-📍 Passionate about building real-world web applications using the MERN stack and Next.js.
+📍 Passionate about building real-world web applications using the MERN stack and Next.js
 
 ### 💻 Tech Stack
 - Frontend: **React.js**, **Next.js**, **JavaScript**, **Tailwind CSS**, **Bootstrap**
