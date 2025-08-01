@@ -15,5 +15,5 @@
 - Exploring open source contributions
 
 ### 📫 Connect with me:
-[!(https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mourya-harshit) 
-[!(https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/Harshit-Mourya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mourya-harshit)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/Harshit-Mourya)
