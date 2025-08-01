@@ -16,11 +16,11 @@
 
 ### 📫 Connect with me:
 <a href="https://www.linkedin.com/in/mourya-harshit" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" style="background:white; padding:4px; border-radius:6px;"/>
 </a>
 &nbsp;
 <a href="https://github.com/Harshit-Mourya" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/40/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios-filled/40/000000/github.png" alt="GitHub" style="background:white; padding:4px; border-radius:6px;"/>
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mourya-harshit)  
