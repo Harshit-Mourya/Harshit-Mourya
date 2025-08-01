@@ -2,9 +2,10 @@
 
 🚀 Aspiring Full-Stack Developer  
 📍 Passionate about building real-world web applications using the MERN stack and Next.js
+🌐 Actively contributing to open source — recently got my [first PR merged](https://github.com/cboard-org/cboard/pull/1976) in [Cboard](https://github.com/cboard-org/cboard)
 
 ### 💻 Tech Stack
-- Frontend: **React.js**, **Next.js**, **JavaScript**, **Tailwind CSS**, **Bootstrap**
+- Frontend: **React.js**, **Next.js**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **Bootstrap**
 - Backend: **Node.js**, **Express.js**
 - Database: **MongoDB**, MySQL (Basics)
 - Others: **Git**, **GitHub**, **Redux Toolkit**, **Material UI**
