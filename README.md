@@ -14,6 +14,9 @@
 - Learning advanced full-stack concepts
 - Exploring open source contributions
 
+### 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshit-mourya.vercel.app)
+
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mourya-harshit) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/Harshit-Mourya)
