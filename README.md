@@ -1,8 +1,9 @@
 # 👋 Hey, I'm Harshit Mourya
 
 🚀 Aspiring Full-Stack Developer  
+👨‍💻 Web/Dev Lead @ GDG JDCOEM  
+🌐 Open Source Contributor  
 📍 Passionate about building real-world web applications using the MERN stack and Next.js  
-🌐 Actively contributing to open source — recently got my [first PR merged](https://github.com/cboard-org/cboard/pull/1976) in [Cboard](https://github.com/cboard-org/cboard)
 
 ### 💻 Tech Stack
 - Frontend: **React.js**, **Next.js**, **JavaScript**, **TypeScript**, **Tailwind CSS**, **Bootstrap**
@@ -11,6 +12,7 @@
 - Others: **Git**, **GitHub**, **Redux Toolkit**, **Material UI**
 
 ### 🌱 Currently
+- Leading web initiatives as **Web/Dev Lead @ GDG On Campus JDCOEM**  
 - Learning advanced full-stack concepts
 - Exploring open source contributions
 
