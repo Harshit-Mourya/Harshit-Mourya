@@ -16,8 +16,10 @@
 - Learning advanced full-stack concepts
 - Exploring open source contributions
 
+<!--
 ### 🪪 Digital Achievements
 [![An image of @harshitmourya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshitmourya)](https://holopin.io/@harshitmourya)
+-->
 
 ### 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshit-mourya.vercel.app)
