@@ -14,6 +14,7 @@
 ### 🌱 Currently
 - Leading web initiatives as **Web/Dev Lead @ GDG On Campus JDCOEM**  
 - Learning advanced full-stack concepts
+- Learning DSA in Java
 - Exploring open source contributions
 
 <!--
