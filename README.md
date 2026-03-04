@@ -1,3 +1,4 @@
+<!--
 # 👋 Hey, I'm Harshit Mourya
 
 👨‍💼 WMS Analyst – Trainee @ SupplyFly Inotech  
@@ -33,3 +34,4 @@ Alongside my professional role, I enjoy building **full-stack web projects using
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mourya-harshit)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/Harshit-Mourya)
+-->
