@@ -1,28 +1,32 @@
 <!--
 # 👋 Hey, I'm Harshit Mourya
 
-👨‍💼 WMS Analyst – Trainee @ SupplyFly Inotech  
+👨‍💼 WMS Analyst @ SupplyFly Inotech  
 🌐 Open-Source Contributor  
 💻 MERN Stack Developer  
 
-I work with **warehouse management systems and operational workflows** in a production environment, building a strong understanding of how technology supports real-world logistics and operations.
+I work with **warehouse management systems** in live production environments, supporting onsite users by resolving operational issues through ticket-based workflows, coordinating troubleshooting efforts, and performing functional testing to ensure smooth logistics execution.
 
 Alongside my professional role, I enjoy building **full-stack web projects using the MERN stack** and contributing to **open-source projects**, where I learn through collaboration, real codebases, and practical problem-solving.
 
 ---
 
 ### 🔧 Areas I Work With
+
 - Full-Stack Web Development (MERN Stack)
+- Warehouse Management Systems (WMS)
+- Production Support & Issue Resolution
+- System & Process Understanding in Supply Chain Operations
 - Open-Source Contribution
-- System & Process Understanding
-- Technology in Logistics & Operations
 
 ---
 
 ### 🌱 Currently
-- Working as a **WMS Analyst – Trainee**
+
+- Working as a **WMS Analyst**
 - Building and improving MERN stack projects
 - Contributing to open-source repositories
+- Strengthening backend and database skills
 
 ---
 
