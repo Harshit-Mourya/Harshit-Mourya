@@ -6,7 +6,7 @@
 
 I work with **warehouse management systems** in live production environments, supporting onsite users by resolving operational issues through ticket-based workflows, coordinating troubleshooting efforts, and performing functional testing to ensure smooth logistics execution.
 
-Currently contributing as a Backend Developer to an enterprise-oriented warehouse management platform, working on task management, shift handovers, incident management, and operational dashboard workflows.
+Currently contributing as a Backend Developer to an enterprise-oriented warehouse handover platform, working on task management, shift handovers, incident management, and operational dashboard workflows.
 
 Alongside my professional role, I enjoy building **full-stack web projects using the MERN stack** and contributing to **open-source projects**, where I learn through collaboration, real codebases, and practical problem-solving.
 
