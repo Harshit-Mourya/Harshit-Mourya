@@ -22,20 +22,20 @@ Alongside my professional role, I enjoy building **full-stack web projects using
 
 ---
 
-### 🌱 Currently
+### 🌱 Outside of Work & Coding
 
-- Working as a **WMS Analyst**
-- Building and improving MERN stack projects
-- Contributing to open-source repositories
-- Strengthening backend and database skills
+I enjoy reading self-improvement and sci-fi books, listening to music, photography with my smartphone, gardening, and sky-watching 🌌📷
 
 ---
 
 ### 🌐 Portfolio
+
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://harshit-mourya.vercel.app)
 
 ---
 
 ### 📫 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mourya-harshit)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/Harshit-Mourya)
